@@ -32,6 +32,13 @@ export default StyleSheet.create({
   incidentValue: {
     marginTop: 8,
     fontSize: 15,
+    marginBottom: 15,
+    color: "#737380",
+    fontWeight: "bold"
+  },
+
+  incidentDescription: {
+    fontSize: 14,
     marginBottom: 24,
     color: "#737380"
   },
