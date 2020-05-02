@@ -14,5 +14,5 @@ web-report/
 .DS_Store
 
 # cache
+yarn.lock
 package-lock.json
-*.lock
